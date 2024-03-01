@@ -1,4 +1,3 @@
-path=`realpath $0`
-dir=`dirname $path`
+cd "$(dirname "$0")"
 
 ./main.out $1 $2

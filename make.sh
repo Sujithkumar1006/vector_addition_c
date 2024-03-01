@@ -1,3 +1,3 @@
-path=`realpath $0`
-dir=`dirname $path`
+cd "$(dirname "$0")"
+
 make all
