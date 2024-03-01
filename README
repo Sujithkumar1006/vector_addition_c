@@ -1,0 +1,8 @@
+Name:		Sujith Kumar Thankaraj
+B-Number:	B01042991
+Email:		sujithkumar.t10@gmail.com
+
+1.This C program implements two vector addition of N size which can be givenby the user.
+2.First do sh make.sh to compile the C files to get an executable file.
+3.Then run sh run.sh N_OPS N_ENTRIES to run the program, here N_OPS is No of vector additions that needs to be done on N_ENTRIES (size of each vector).
+4.This program uses dynamic memory allocation technique to handle the vectors.
